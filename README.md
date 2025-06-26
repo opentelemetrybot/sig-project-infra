@@ -11,7 +11,7 @@ Covers project infrastructure initiatives for the OpenTelemetry project.
 
 For more information about the maintainer role, see the [community repository](https://github.com/open-telemetry/community/blob/main/community-membership.md#maintainer).
 
-### Approvers
+## Approvers
 
 * [Adriel Perkins](https://github.com/austinlparker), Liatrio
 * [Jacob Aronoff](https://github.com/jaronoff97), Omlet
