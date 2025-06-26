@@ -4,7 +4,7 @@
 
 Covers project infrastructure initiatives for the OpenTelemetry project.
 
-### Maintainers
+## Maintainers
 
 * [Austin Parker](https://github.com/austinlparker), Honeycomb
 * [Trask Stalnaker](https://github.com/trask), Microsoft
