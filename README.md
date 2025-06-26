@@ -9,11 +9,11 @@ Covers project infrastructure initiatives for the OpenTelemetry project.
 * [Austin Parker](https://github.com/austinlparker), Honeycomb
 * [Trask Stalnaker](https://github.com/trask), Microsoft
 
-For more information about the maintainer role, see the [community repository](https://github.com/open-telemetry/community/blob/main/community-membership.md#maintainer).
+For more information about the maintainer role, see the [community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#maintainer).
 
 ## Approvers
 
 * [Adriel Perkins](https://github.com/austinlparker), Liatrio
 * [Jacob Aronoff](https://github.com/jaronoff97), Omlet
 
-For more information about the approver role, see the [community repository](https://github.com/open-telemetry/community/blob/main/community-membership.md#approver).
+For more information about the approver role, see the [community repository](https://github.com/open-telemetry/community/blob/main/guides/contributor/membership.md#approver).
