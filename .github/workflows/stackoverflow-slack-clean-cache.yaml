@@ -5,8 +5,13 @@ on:
   schedule:
     - cron: "30 0 * * *"
 
+permissions:
+  contents: read
+
 jobs:
   cleanup:
+    permissions:
+      actions: write # required for managing GitHub Actions caches
     runs-on: ubuntu-latest
     steps:
       - name: Cleanup
@@ -18,7 +23,7 @@ jobs:
           echo "Fetching list of cache keys..."
           cacheKeys=$(gh actions-cache list -R $REPO | cut -f 1)
           cacheKeys=$(echo "$cacheKeys" | sed '1d')
-                
+
           ## needed to not fail workflow while deleting keys
           set +e
 
